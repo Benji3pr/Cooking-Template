@@ -1,4 +1,4 @@
 # Cooking-Template
 Cooking website template
 
-[preview](readmeResources/Cooking-with-Ben.png)
+<img src="readmeResources/Cooking-with-Ben.png" alt="Website Preview">
